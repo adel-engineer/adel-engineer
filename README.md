@@ -28,11 +28,7 @@ To become a strong **AI-focused Full-Stack Engineer**, able to build systems tha
 | **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
-
-### 📂 Featured Projects
-- 🧾 **Inventory Management System (Flask + SQLite)**  
-  A web-based system to track products, sales, and expenses.  
-  *(To be published soon)*  
+ 
 
 - 🌐 **React Frontend for Inventory Dashboard**  
   Real-time UI built using React Hooks and Fetch API.  
