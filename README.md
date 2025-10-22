@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Adel Shehab  
 
-<!--
-**adel-engineer/adel-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student | Full-Stack Developer (Python & JavaScript)  
+🚀 Building practical systems using Flask (Jinja2), React, and SQL databases  
+📘 Currently improving my DSA and OOPs skills to design intelligent, efficient systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+I'm **Adel Shehab**, a passionate Software Engineering student at **Jain University**. 
+- Backend development with **Flask + Jinja2**
+- Database design using **SQL (SQLite)**
+- Frontend development with **React**
+- Problem-solving through **DSA & OOPs**  
+
+🎯 **My mission:**  
+To become a strong **AI-focused Full-Stack Engineer**, able to build systems that truly make a difference.
+
+---
+
+### 🛠️ Tech Stack
+| Category | Tools / Languages |
+|-----------|------------------|
+| **Languages** | Python, JavaScript, SQL |
+| **Frameworks** | Flask (Jinja2), React, Express.js |
+| **Databases** | sql,SQLite|
+| **Concepts** | OOPs, DSA, REST APIs, AI Fundamentals |
+| **Tools** | Git, GitHub, VS Code, Postman |
+
+---
+
+### 📂 Featured Projects
+- 🧾 **Inventory Management System (Flask + SQLite)**  
+  A web-based system to track products, sales, and expenses.  
+  *(To be published soon)*  
+
+- 🌐 **React Frontend for Inventory Dashboard**  
+  Real-time UI built using React Hooks and Fetch API.  
+
+---
+
+### 📫 Connect With Me
+- 📧 Email: **adel.s.engineer@gmail.com**  
+- 🌐 GitHub: [github.com/adel-engineer](https://github.com/adel-engineer)  
+- 💼 LinkedIn: [linkedin.com/in/adel-shehab](https://linkedin.com/in/adel-shehab)
+
