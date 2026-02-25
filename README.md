@@ -23,7 +23,7 @@ To become a strong **AI-focused Full-Stack Engineer**, able to build systems tha
 |-----------|------------------|
 | **Languages** | Python, JavaScript, SQL |
 | **Frameworks** | Flask (Jinja2), React, Express.js |
-| **Databases** | SQL,SQLite|
+| **Databases** | SQL,SQLite, mangoDB|
 | **Concepts** | OOPs, DSA, REST APIs, AI Fundamentals |
 | **Tools** | Git, GitHub, VS Code, Postman |
 
