@@ -81,4 +81,4 @@ A Python-based inventory management system using **SQLite**.
 
 * **Email:** [adel.s.engineer@gmail.com](mailto:adel.s.engineer@gmail.com)
 * **GitHub:** [github.com/adel-engineer](https://github.com/adel-engineer)
-* **LinkedIn:** [linkedin.com/in/adel-shehab](https://linkedin.com/in/adel-shehab)
+* **LinkedIn:** [linkedin.com/in/adel-shehab](https://www.linkedin.com/in/adel-shehab-54522742a )
